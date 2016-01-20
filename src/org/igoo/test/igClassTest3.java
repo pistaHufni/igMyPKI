@@ -11,7 +11,8 @@ public class igClassTest3 extends igGenericClass {
 	@Override
 	public void init() {
 		// TODO Auto-generated method stub
-
+		// test 
+		// test 7
 	}
 
 	public static void main(String[] args) {
