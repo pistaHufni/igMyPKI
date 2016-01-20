@@ -19,8 +19,17 @@ public class igTestGUI extends igDefaultGUI {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		// TODO Auto-generated method stub
+		test();
+		test2();
+	}
 
+	private void test2() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private void test() {
+		
 	}
 
 	@Override
