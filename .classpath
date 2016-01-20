@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="bc_core_src"/>
+	<classpathentry kind="src" path="bc_pkix_src"/>
+	<classpathentry kind="src" path="bc_prov_src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/igUtils"/>
 	<classpathentry kind="output" path="bin"/>
