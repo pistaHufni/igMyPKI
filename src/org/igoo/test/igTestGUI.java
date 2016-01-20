@@ -15,26 +15,11 @@ public class igTestGUI extends igDefaultGUI {
 
 	public igTestGUI(String[] args, String programName) throws HeadlessException {
 		super(args, programName);
+		addMenu();
 	}
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		test();
-		test2();
-		test3();
-	}
-
-	private void test2() {
-		// TODO Auto-generated method stub
-		
-	}
-	private void test3() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	private void test() {
-		
 	}
 
 	@Override
