@@ -15,6 +15,7 @@ public class igClassTest3 extends igGenericClass {
 		// test 7
 		// test 8
 		// test 9
+		// test 10
 	}
 
 	public static void main(String[] args) {
