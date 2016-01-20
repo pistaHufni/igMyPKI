@@ -10,10 +10,7 @@ public class igTestClass extends igGenericClass {
 	}
 
 	@Override
-	public void init() {
-		// TODO Auto-generated method stub
-
-	}
+	public void init() {}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
