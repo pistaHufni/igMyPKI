@@ -15,3 +15,43 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>igMyPKI</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>bc_core_src</name>
+			<type>2</type>
+			<locationURI>bouncyCastleGIT/core/src/main/java</locationURI>
+		</link>
+		<link>
+			<name>bc_pkix_src</name>
+			<type>2</type>
+			<locationURI>bouncyCastleGIT/pkix/src/main/java</locationURI>
+		</link>
+		<link>
+			<name>bc_prov_src</name>
+			<type>2</type>
+			<locationURI>bouncyCastleGIT/prov/src/main/java</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>bouncyCastleGIT</name>
+			<value>file:/C:/igoo/git/bc-java</value>
+		</variable>
+	</variableList>
+</projectDescription>
