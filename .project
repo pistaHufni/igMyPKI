@@ -18,17 +18,17 @@
 		<link>
 			<name>bc_core_src</name>
 			<type>2</type>
-			<locationURI>bouncyCastleGIT/core/src/main/java</locationURI>
+			<location>C:/igoo/git/bc-java/core/src/main/java</location>
 		</link>
 		<link>
 			<name>bc_pkix_src</name>
 			<type>2</type>
-			<locationURI>bouncyCastleGIT/pkix/src/main/java</locationURI>
+			<location>C:/igoo/git/bc-java/pkix/src/main/java</location>
 		</link>
 		<link>
 			<name>bc_prov_src</name>
 			<type>2</type>
-			<locationURI>bouncyCastleGIT/prov/src/main/java</locationURI>
+			<location>C:/igoo/git/bc-java/prov/src/main/java</location>
 		</link>
 	</linkedResources>
 	<variableList>

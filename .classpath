@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path=""/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="bouncy_prov"/>
+	<classpathentry kind="src" path="bouncy_pkix"/>
+	<classpathentry kind="src" path="bouncy"/>
+
 	<classpathentry combineaccessrules="false" kind="src" path="/igUtils"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
